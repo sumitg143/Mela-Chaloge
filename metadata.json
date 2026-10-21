@@ -1,0 +1,6 @@
+{
+  "name": "Dussehra Mela Online — Mela Chaloge Mere Sath?",
+  "description": "An interactive 3D Indian Dussehra fair. Walk through glowing stalls, play balloon shooting & ring toss, ride the giant wheel, experience Maut ka Kuan, watch Ram Leela, and celebrate Ravana Dahan with virtual fireworks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
